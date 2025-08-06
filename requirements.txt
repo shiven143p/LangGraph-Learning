@@ -2,3 +2,6 @@ langchain
 langchain-core
 langchain-community
 langgraph
+python-dotenv
+langchain-openai
+langchain-groq
